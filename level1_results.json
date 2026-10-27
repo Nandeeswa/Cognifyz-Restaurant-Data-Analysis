@@ -1,0 +1,223 @@
+{
+  "rows": 9551,
+  "columns": 21,
+  "rated_restaurants": 7403,
+  "unrated_restaurants": 2148,
+  "t1_denominator": 9542,
+  "t1_unique_cuisines": 145,
+  "t1_top10": [
+    {
+      "Cuisine": "North Indian",
+      "Restaurants": 3960,
+      "Percentage": 41.5
+    },
+    {
+      "Cuisine": "Chinese",
+      "Restaurants": 2733,
+      "Percentage": 28.64
+    },
+    {
+      "Cuisine": "Fast Food",
+      "Restaurants": 1986,
+      "Percentage": 20.81
+    },
+    {
+      "Cuisine": "Mughlai",
+      "Restaurants": 994,
+      "Percentage": 10.42
+    },
+    {
+      "Cuisine": "Italian",
+      "Restaurants": 764,
+      "Percentage": 8.01
+    },
+    {
+      "Cuisine": "Bakery",
+      "Restaurants": 744,
+      "Percentage": 7.8
+    },
+    {
+      "Cuisine": "Continental",
+      "Restaurants": 736,
+      "Percentage": 7.71
+    },
+    {
+      "Cuisine": "Cafe",
+      "Restaurants": 703,
+      "Percentage": 7.37
+    },
+    {
+      "Cuisine": "Desserts",
+      "Restaurants": 653,
+      "Percentage": 6.84
+    },
+    {
+      "Cuisine": "South Indian",
+      "Restaurants": 636,
+      "Percentage": 6.67
+    }
+  ],
+  "t2_top_city": {
+    "city": "New Delhi",
+    "restaurants": 5473,
+    "share_pct": 57.3
+  },
+  "t2_n_cities": 141,
+  "t2_top5_by_count": [
+    {
+      "City": "New Delhi",
+      "Restaurants": 5473,
+      "Rated_Restaurants": 4048,
+      "Avg_Rating": 3.3
+    },
+    {
+      "City": "Gurgaon",
+      "Restaurants": 1118,
+      "Rated_Restaurants": 890,
+      "Avg_Rating": 3.33
+    },
+    {
+      "City": "Noida",
+      "Restaurants": 1080,
+      "Rated_Restaurants": 696,
+      "Avg_Rating": 3.16
+    },
+    {
+      "City": "Faridabad",
+      "Restaurants": 251,
+      "Rated_Restaurants": 151,
+      "Avg_Rating": 3.1
+    },
+    {
+      "City": "Ghaziabad",
+      "Restaurants": 25,
+      "Rated_Restaurants": 23,
+      "Avg_Rating": 3.1
+    }
+  ],
+  "t2_raw_best_top5": [
+    {
+      "City": "Inner City",
+      "Restaurants": 2,
+      "Rated_Restaurants": 2,
+      "Avg_Rating": 4.9
+    },
+    {
+      "City": "Quezon City",
+      "Restaurants": 1,
+      "Rated_Restaurants": 1,
+      "Avg_Rating": 4.8
+    },
+    {
+      "City": "Makati City",
+      "Restaurants": 2,
+      "Rated_Restaurants": 2,
+      "Avg_Rating": 4.65
+    },
+    {
+      "City": "Pasig City",
+      "Restaurants": 3,
+      "Rated_Restaurants": 3,
+      "Avg_Rating": 4.63
+    },
+    {
+      "City": "Mandaluyong City",
+      "Restaurants": 4,
+      "Rated_Restaurants": 4,
+      "Avg_Rating": 4.63
+    }
+  ],
+  "t2_fair_best_top5": [
+    {
+      "City": "London",
+      "Restaurants": 20,
+      "Rated_Restaurants": 20,
+      "Avg_Rating": 4.54
+    },
+    {
+      "City": "Orlando",
+      "Restaurants": 20,
+      "Rated_Restaurants": 20,
+      "Avg_Rating": 4.48
+    },
+    {
+      "City": "Tampa Bay",
+      "Restaurants": 20,
+      "Rated_Restaurants": 20,
+      "Avg_Rating": 4.41
+    },
+    {
+      "City": "Rest of Hawaii",
+      "Restaurants": 20,
+      "Rated_Restaurants": 20,
+      "Avg_Rating": 4.41
+    },
+    {
+      "City": "Bangalore",
+      "Restaurants": 20,
+      "Rated_Restaurants": 20,
+      "Avg_Rating": 4.38
+    }
+  ],
+  "t2_n_cities_min20": 71,
+  "t2_cities_with_1_rated": 46,
+  "t3_price": [
+    {
+      "Price range": 1,
+      "Restaurants": 4444,
+      "Percentage": 46.53
+    },
+    {
+      "Price range": 2,
+      "Restaurants": 3113,
+      "Percentage": 32.59
+    },
+    {
+      "Price range": 3,
+      "Restaurants": 1408,
+      "Percentage": 14.74
+    },
+    {
+      "Price range": 4,
+      "Restaurants": 586,
+      "Percentage": 6.14
+    }
+  ],
+  "t4": {
+    "yes": 2451,
+    "no": 7100,
+    "yes_pct": 25.66,
+    "avg_yes": 3.38,
+    "avg_no": 3.47,
+    "n_yes_rated": 2355,
+    "n_no_rated": 5048,
+    "median_yes": 3.4,
+    "median_no": 3.4,
+    "avg_yes_with_zero": 3.25,
+    "avg_no_with_zero": 2.47,
+    "unrated_pct_yes": 3.92,
+    "unrated_pct_no": 28.9
+  },
+  "t4_by_price": [
+    {
+      "Price range": 1,
+      "No": 3.23,
+      "Yes": 3.26
+    },
+    {
+      "Price range": 2,
+      "No": 3.41,
+      "Yes": 3.33
+    },
+    {
+      "Price range": 3,
+      "No": 3.83,
+      "Yes": 3.65
+    },
+    {
+      "Price range": 4,
+      "No": 3.89,
+      "Yes": 3.93
+    }
+  ]
+}

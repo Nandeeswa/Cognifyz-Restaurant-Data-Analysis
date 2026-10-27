@@ -1,0 +1,234 @@
+{
+  "t1": {
+    "possible_text_columns": [
+      "Rating text"
+    ],
+    "rating_text_counts": {
+      "Average": 3737,
+      "Not rated": 2148,
+      "Good": 2100,
+      "Very Good": 1079,
+      "Excellent": 301,
+      "Poor": 186
+    },
+    "rating_text_unique": 6
+  },
+  "t2": {
+    "top10": [
+      {
+        "Restaurant Name": "Toit",
+        "City": "Bangalore",
+        "Votes": 10934,
+        "Aggregate rating": 4.8
+      },
+      {
+        "Restaurant Name": "Truffles",
+        "City": "Bangalore",
+        "Votes": 9667,
+        "Aggregate rating": 4.7
+      },
+      {
+        "Restaurant Name": "Hauz Khas Social",
+        "City": "New Delhi",
+        "Votes": 7931,
+        "Aggregate rating": 4.3
+      },
+      {
+        "Restaurant Name": "Peter Cat",
+        "City": "Kolkata",
+        "Votes": 7574,
+        "Aggregate rating": 4.3
+      },
+      {
+        "Restaurant Name": "AB's - Absolute Barbecues",
+        "City": "Bangalore",
+        "Votes": 6907,
+        "Aggregate rating": 4.6
+      },
+      {
+        "Restaurant Name": "Barbeque Nation",
+        "City": "Kolkata",
+        "Votes": 5966,
+        "Aggregate rating": 4.9
+      },
+      {
+        "Restaurant Name": "Big Brewsky",
+        "City": "Bangalore",
+        "Votes": 5705,
+        "Aggregate rating": 4.5
+      },
+      {
+        "Restaurant Name": "AB's - Absolute Barbecues",
+        "City": "Hyderabad",
+        "Votes": 5434,
+        "Aggregate rating": 4.9
+      },
+      {
+        "Restaurant Name": "The Black Pearl",
+        "City": "Bangalore",
+        "Votes": 5385,
+        "Aggregate rating": 4.1
+      },
+      {
+        "Restaurant Name": "BarBQ",
+        "City": "Kolkata",
+        "Votes": 5288,
+        "Aggregate rating": 4.2
+      }
+    ],
+    "zero_votes": 1094,
+    "zero_votes_pct": 11.45,
+    "zero_votes_and_unrated": 1094,
+    "min_votes_rated": 4,
+    "n_min_votes_rated": 207,
+    "median_votes": 31.0,
+    "low_sample": [
+      {
+        "Restaurant Name": "Cantinho da Gula",
+        "City": "S\ufffd\ufffdo Paulo",
+        "Votes": 0,
+        "Aggregate rating": 0.0
+      },
+      {
+        "Restaurant Name": "The Chaiwalas",
+        "City": "Faridabad",
+        "Votes": 0,
+        "Aggregate rating": 0.0
+      },
+      {
+        "Restaurant Name": "Fusion Food Corner",
+        "City": "Faridabad",
+        "Votes": 0,
+        "Aggregate rating": 0.0
+      },
+      {
+        "Restaurant Name": "Punjabi Rasoi",
+        "City": "Faridabad",
+        "Votes": 0,
+        "Aggregate rating": 0.0
+      },
+      {
+        "Restaurant Name": "Baskin Robbin",
+        "City": "Faridabad",
+        "Votes": 0,
+        "Aggregate rating": 0.0
+      }
+    ],
+    "pearson": 0.41,
+    "spearman": 0.68,
+    "pearson_log": 0.65,
+    "spearman_with_unrated": 0.85,
+    "n": 7403,
+    "p_pearson": 1.3540901133335115e-296,
+    "vote_group": [
+      {
+        "Vote group": "0-10",
+        "count": 1075,
+        "mean": 2.98
+      },
+      {
+        "Vote group": "11-50",
+        "count": 2354,
+        "mean": 3.19
+      },
+      {
+        "Vote group": "51-200",
+        "count": 2275,
+        "mean": 3.51
+      },
+      {
+        "Vote group": "201-1000",
+        "count": 1403,
+        "mean": 3.94
+      },
+      {
+        "Vote group": "1000+",
+        "count": 296,
+        "mean": 4.2
+      }
+    ]
+  },
+  "t3": {
+    "delivery": [
+      {
+        "Price range": 1,
+        "Total": 4444,
+        "Delivery Yes": 701,
+        "Delivery No": 3743,
+        "Delivery Yes %": 15.77
+      },
+      {
+        "Price range": 2,
+        "Total": 3113,
+        "Delivery Yes": 1286,
+        "Delivery No": 1827,
+        "Delivery Yes %": 41.31
+      },
+      {
+        "Price range": 3,
+        "Total": 1408,
+        "Delivery Yes": 411,
+        "Delivery No": 997,
+        "Delivery Yes %": 29.19
+      },
+      {
+        "Price range": 4,
+        "Total": 586,
+        "Delivery Yes": 53,
+        "Delivery No": 533,
+        "Delivery Yes %": 9.04
+      }
+    ],
+    "booking": [
+      {
+        "Price range": 1,
+        "Total": 4444,
+        "Booking Yes": 1,
+        "Booking No": 4443,
+        "Booking Yes %": 0.02
+      },
+      {
+        "Price range": 2,
+        "Total": 3113,
+        "Booking Yes": 239,
+        "Booking No": 2874,
+        "Booking Yes %": 7.68
+      },
+      {
+        "Price range": 3,
+        "Total": 1408,
+        "Booking Yes": 644,
+        "Booking No": 764,
+        "Booking Yes %": 45.74
+      },
+      {
+        "Price range": 4,
+        "Total": 586,
+        "Booking Yes": 274,
+        "Booking No": 312,
+        "Booking Yes %": 46.76
+      }
+    ],
+    "chi_d": 721.4,
+    "p_d": 4.855491091732406e-156,
+    "rho_d": 0.14,
+    "chi_b": 2821.6,
+    "p_b": 0.0,
+    "rho_b": 0.47,
+    "india_n": 8652,
+    "india_delivery_pct": {
+      "1": 16.32,
+      "2": 44.82,
+      "3": 35.82,
+      "4": 11.08
+    },
+    "india_booking_pct": {
+      "1": 0.02,
+      "2": 8.22,
+      "3": 56.17,
+      "4": 64.69
+    },
+    "overall_delivery_pct": 25.66,
+    "overall_booking_pct": 12.12
+  }
+}

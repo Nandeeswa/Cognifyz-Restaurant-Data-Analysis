@@ -1,0 +1,11 @@
+Combination,Restaurants,Rated,Avg_Rating
+Chinese + North Indian,616,462,3.11
+Mughlai + North Indian,395,332,3.28
+Chinese + Mughlai + North Indian,306,258,3.11
+Bakery + Desserts,182,127,3.41
+Chinese + Fast Food,159,107,3.08
+Fast Food + Pizza,142,121,3.03
+Chinese + North Indian + South Indian,137,97,3.15
+Mithai + Street Food,134,81,3.15
+Fast Food + North Indian,120,90,3.2
+Bakery + Fast Food,117,86,3.28

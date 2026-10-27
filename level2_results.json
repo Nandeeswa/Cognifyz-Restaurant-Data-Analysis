@@ -1,0 +1,502 @@
+{
+  "t1": {
+    "rated": 7403,
+    "unrated": 2148,
+    "mean_rating": 3.44,
+    "median_rating": 3.4,
+    "common_range": "3.0-3.4",
+    "common_range_n": 2490,
+    "common_range_pct": 33.64,
+    "exact_mode": 3.2,
+    "exact_mode_n": 522,
+    "avg_votes_all": 156.91,
+    "avg_votes_rated": 202.19,
+    "median_votes_all": 31.0,
+    "median_votes_rated": 60.0,
+    "max_votes": 10934,
+    "ranges": [
+      {
+        "Rating range": "1.5-1.9",
+        "Restaurants": 3,
+        "Percent of rated": 0.04
+      },
+      {
+        "Rating range": "2.0-2.4",
+        "Restaurants": 183,
+        "Percent of rated": 2.47
+      },
+      {
+        "Rating range": "2.5-2.9",
+        "Restaurants": 1247,
+        "Percent of rated": 16.84
+      },
+      {
+        "Rating range": "3.0-3.4",
+        "Restaurants": 2490,
+        "Percent of rated": 33.64
+      },
+      {
+        "Rating range": "3.5-3.9",
+        "Restaurants": 2100,
+        "Percent of rated": 28.37
+      },
+      {
+        "Rating range": "4.0-4.4",
+        "Restaurants": 1079,
+        "Percent of rated": 14.58
+      },
+      {
+        "Rating range": "4.5-4.9",
+        "Restaurants": 301,
+        "Percent of rated": 4.07
+      }
+    ],
+    "unrated_max_votes": 3
+  },
+  "t2": {
+    "n_cuisine_rows": 9542,
+    "n_multi": 6148,
+    "n_single": 3394,
+    "n_combos_total": 1245,
+    "n_combos_min20": 33,
+    "overall_avg_multi": 3.45,
+    "overall_avg_rated": 3.44,
+    "most_common": [
+      {
+        "Combination": "Chinese + North Indian",
+        "Restaurants": 616,
+        "Rated": 462,
+        "Avg_Rating": 3.11
+      },
+      {
+        "Combination": "Mughlai + North Indian",
+        "Restaurants": 395,
+        "Rated": 332,
+        "Avg_Rating": 3.28
+      },
+      {
+        "Combination": "Chinese + Mughlai + North Indian",
+        "Restaurants": 306,
+        "Rated": 258,
+        "Avg_Rating": 3.11
+      },
+      {
+        "Combination": "Bakery + Desserts",
+        "Restaurants": 182,
+        "Rated": 127,
+        "Avg_Rating": 3.41
+      },
+      {
+        "Combination": "Chinese + Fast Food",
+        "Restaurants": 159,
+        "Rated": 107,
+        "Avg_Rating": 3.08
+      },
+      {
+        "Combination": "Fast Food + Pizza",
+        "Restaurants": 142,
+        "Rated": 121,
+        "Avg_Rating": 3.03
+      },
+      {
+        "Combination": "Chinese + North Indian + South Indian",
+        "Restaurants": 137,
+        "Rated": 97,
+        "Avg_Rating": 3.15
+      },
+      {
+        "Combination": "Mithai + Street Food",
+        "Restaurants": 134,
+        "Rated": 81,
+        "Avg_Rating": 3.15
+      },
+      {
+        "Combination": "Fast Food + North Indian",
+        "Restaurants": 120,
+        "Rated": 90,
+        "Avg_Rating": 3.2
+      },
+      {
+        "Combination": "Bakery + Fast Food",
+        "Restaurants": 117,
+        "Rated": 86,
+        "Avg_Rating": 3.28
+      }
+    ],
+    "best": [
+      {
+        "Combination": "Japanese + Sushi",
+        "Restaurants": 20,
+        "Rated": 20,
+        "Avg_Rating": 4.06
+      },
+      {
+        "Combination": "Italian + Pizza",
+        "Restaurants": 43,
+        "Rated": 42,
+        "Avg_Rating": 3.74
+      },
+      {
+        "Combination": "Continental + Italian + North Indian",
+        "Restaurants": 32,
+        "Rated": 29,
+        "Avg_Rating": 3.68
+      },
+      {
+        "Combination": "Chinese + Continental + Italian + North Indian",
+        "Restaurants": 37,
+        "Rated": 37,
+        "Avg_Rating": 3.61
+      },
+      {
+        "Combination": "Continental + North Indian",
+        "Restaurants": 41,
+        "Rated": 38,
+        "Avg_Rating": 3.58
+      },
+      {
+        "Combination": "Chinese + Italian + North Indian",
+        "Restaurants": 33,
+        "Rated": 29,
+        "Avg_Rating": 3.52
+      },
+      {
+        "Combination": "Chinese + Thai",
+        "Restaurants": 54,
+        "Rated": 51,
+        "Avg_Rating": 3.51
+      },
+      {
+        "Combination": "Bakery + Desserts + Fast Food",
+        "Restaurants": 69,
+        "Rated": 66,
+        "Avg_Rating": 3.47
+      }
+    ],
+    "worst": [
+      {
+        "Combination": "Fast Food + Pizza",
+        "Restaurants": 142,
+        "Rated": 121,
+        "Avg_Rating": 3.03
+      },
+      {
+        "Combination": "American + Fast Food + Healthy Food + Salad",
+        "Restaurants": 63,
+        "Rated": 61,
+        "Avg_Rating": 3.0
+      },
+      {
+        "Combination": "Fast Food + Raw Meats",
+        "Restaurants": 45,
+        "Rated": 27,
+        "Avg_Rating": 2.99
+      }
+    ],
+    "min_threshold": 20
+  },
+  "t3": {
+    "plotted": 9054,
+    "invalid_zero": 497,
+    "ncr_points": 7549,
+    "ncr_pct": 83.38,
+    "india_pct": 90.09,
+    "n_countries": 15,
+    "top_localities": [
+      {
+        "Locality": "Connaught Place",
+        "City": "New Delhi",
+        "Restaurants": 122
+      },
+      {
+        "Locality": "Rajouri Garden",
+        "City": "New Delhi",
+        "Restaurants": 98
+      },
+      {
+        "Locality": "Defence Colony",
+        "City": "New Delhi",
+        "Restaurants": 85
+      },
+      {
+        "Locality": "Malviya Nagar",
+        "City": "New Delhi",
+        "Restaurants": 84
+      },
+      {
+        "Locality": "Pitampura",
+        "City": "New Delhi",
+        "Restaurants": 83
+      },
+      {
+        "Locality": "Shahdara",
+        "City": "New Delhi",
+        "Restaurants": 81
+      },
+      {
+        "Locality": "Rajinder Nagar",
+        "City": "New Delhi",
+        "Restaurants": 79
+      },
+      {
+        "Locality": "Satyaniketan",
+        "City": "New Delhi",
+        "Restaurants": 75
+      },
+      {
+        "Locality": "Karol Bagh",
+        "City": "New Delhi",
+        "Restaurants": 75
+      },
+      {
+        "Locality": "Sector 18",
+        "City": "Noida",
+        "Restaurants": 75
+      }
+    ],
+    "densest_cells": {
+      "28.63,77.22": 147,
+      "28.57,77.32": 104,
+      "28.57,77.33": 79
+    },
+    "city_top": {
+      "New Delhi": 5240,
+      "Gurgaon": 1070,
+      "Noida": 987,
+      "Faridabad": 229,
+      "Ghaziabad": 25,
+      "Ahmedabad": 21,
+      "Bras\ufffd_lia": 20,
+      "Rio de Janeiro": 20
+    },
+    "invalid_in_country": {
+      "1": 495,
+      "94": 1,
+      "191": 1
+    }
+  },
+  "t4": {
+    "n_chain_names": 734,
+    "chain_outlets": 2839,
+    "chain_outlets_pct": 29.72,
+    "unique_names": 7446,
+    "top10": [
+      {
+        "Restaurant Name": "Cafe Coffee Day",
+        "Outlets": 83,
+        "Total_Votes": 2428,
+        "Cities": 5,
+        "Rated_Outlets": 67,
+        "Avg_Rating": 3.0,
+        "Avg_Votes_per_Outlet": 29.3
+      },
+      {
+        "Restaurant Name": "Domino's Pizza",
+        "Outlets": 79,
+        "Total_Votes": 6643,
+        "Cities": 7,
+        "Rated_Outlets": 74,
+        "Avg_Rating": 2.93,
+        "Avg_Votes_per_Outlet": 84.1
+      },
+      {
+        "Restaurant Name": "Subway",
+        "Outlets": 63,
+        "Total_Votes": 6124,
+        "Cities": 5,
+        "Rated_Outlets": 61,
+        "Avg_Rating": 3.0,
+        "Avg_Votes_per_Outlet": 97.2
+      },
+      {
+        "Restaurant Name": "Green Chick Chop",
+        "Outlets": 51,
+        "Total_Votes": 964,
+        "Cities": 4,
+        "Rated_Outlets": 44,
+        "Avg_Rating": 3.1,
+        "Avg_Votes_per_Outlet": 18.9
+      },
+      {
+        "Restaurant Name": "McDonald's",
+        "Outlets": 48,
+        "Total_Votes": 5291,
+        "Cities": 7,
+        "Rated_Outlets": 47,
+        "Avg_Rating": 3.41,
+        "Avg_Votes_per_Outlet": 110.2
+      },
+      {
+        "Restaurant Name": "Keventers",
+        "Outlets": 34,
+        "Total_Votes": 1263,
+        "Cities": 4,
+        "Rated_Outlets": 29,
+        "Avg_Rating": 3.37,
+        "Avg_Votes_per_Outlet": 37.1
+      },
+      {
+        "Restaurant Name": "Pizza Hut",
+        "Outlets": 30,
+        "Total_Votes": 4961,
+        "Cities": 12,
+        "Rated_Outlets": 29,
+        "Avg_Rating": 3.43,
+        "Avg_Votes_per_Outlet": 165.4
+      },
+      {
+        "Restaurant Name": "Giani",
+        "Outlets": 29,
+        "Total_Votes": 854,
+        "Cities": 4,
+        "Rated_Outlets": 24,
+        "Avg_Rating": 3.25,
+        "Avg_Votes_per_Outlet": 29.4
+      },
+      {
+        "Restaurant Name": "Baskin Robbins",
+        "Outlets": 28,
+        "Total_Votes": 428,
+        "Cities": 5,
+        "Rated_Outlets": 16,
+        "Avg_Rating": 3.26,
+        "Avg_Votes_per_Outlet": 15.3
+      },
+      {
+        "Restaurant Name": "Barbeque Nation",
+        "Outlets": 26,
+        "Total_Votes": 28142,
+        "Cities": 22,
+        "Rated_Outlets": 26,
+        "Avg_Rating": 4.35,
+        "Avg_Votes_per_Outlet": 1082.4
+      }
+    ],
+    "by_votes": [
+      {
+        "Restaurant Name": "Barbeque Nation",
+        "Outlets": 26,
+        "Total_Votes": 28142,
+        "Cities": 22,
+        "Rated_Outlets": 26,
+        "Avg_Rating": 4.35,
+        "Avg_Votes_per_Outlet": 1082.4
+      },
+      {
+        "Restaurant Name": "AB's - Absolute Barbecues",
+        "Outlets": 4,
+        "Total_Votes": 13400,
+        "Cities": 3,
+        "Rated_Outlets": 4,
+        "Avg_Rating": 4.83,
+        "Avg_Votes_per_Outlet": 3350.0
+      },
+      {
+        "Restaurant Name": "Big Chill",
+        "Outlets": 4,
+        "Total_Votes": 10853,
+        "Cities": 1,
+        "Rated_Outlets": 4,
+        "Avg_Rating": 4.48,
+        "Avg_Votes_per_Outlet": 2713.3
+      },
+      {
+        "Restaurant Name": "Farzi Cafe",
+        "Outlets": 6,
+        "Total_Votes": 10098,
+        "Cities": 6,
+        "Rated_Outlets": 6,
+        "Avg_Rating": 4.37,
+        "Avg_Votes_per_Outlet": 1683.0
+      },
+      {
+        "Restaurant Name": "Truffles",
+        "Outlets": 2,
+        "Total_Votes": 9682,
+        "Cities": 2,
+        "Rated_Outlets": 2,
+        "Avg_Rating": 3.95,
+        "Avg_Votes_per_Outlet": 4841.0
+      }
+    ],
+    "best_min10": [
+      {
+        "Restaurant Name": "Barbeque Nation",
+        "Outlets": 26,
+        "Total_Votes": 28142,
+        "Cities": 22,
+        "Rated_Outlets": 26,
+        "Avg_Rating": 4.35,
+        "Avg_Votes_per_Outlet": 1082.4
+      },
+      {
+        "Restaurant Name": "Starbucks",
+        "Outlets": 18,
+        "Total_Votes": 7139,
+        "Cities": 4,
+        "Rated_Outlets": 18,
+        "Avg_Rating": 3.81,
+        "Avg_Votes_per_Outlet": 396.6
+      },
+      {
+        "Restaurant Name": "Chaayos",
+        "Outlets": 18,
+        "Total_Votes": 2473,
+        "Cities": 3,
+        "Rated_Outlets": 17,
+        "Avg_Rating": 3.75,
+        "Avg_Votes_per_Outlet": 137.4
+      },
+      {
+        "Restaurant Name": "Dunkin' Donuts",
+        "Outlets": 22,
+        "Total_Votes": 5974,
+        "Cities": 5,
+        "Rated_Outlets": 19,
+        "Avg_Rating": 3.63,
+        "Avg_Votes_per_Outlet": 271.5
+      },
+      {
+        "Restaurant Name": "Haldiram's",
+        "Outlets": 16,
+        "Total_Votes": 4525,
+        "Cities": 4,
+        "Rated_Outlets": 16,
+        "Avg_Rating": 3.63,
+        "Avg_Votes_per_Outlet": 282.8
+      }
+    ],
+    "worst_min10": [
+      {
+        "Restaurant Name": "Pizza Hut Delivery",
+        "Outlets": 19,
+        "Total_Votes": 1527,
+        "Cities": 3,
+        "Rated_Outlets": 18,
+        "Avg_Rating": 2.81,
+        "Avg_Votes_per_Outlet": 80.4
+      },
+      {
+        "Restaurant Name": "Chicago Pizza",
+        "Outlets": 12,
+        "Total_Votes": 633,
+        "Cities": 4,
+        "Rated_Outlets": 10,
+        "Avg_Rating": 2.79,
+        "Avg_Votes_per_Outlet": 52.8
+      },
+      {
+        "Restaurant Name": "Wah Ji Wah",
+        "Outlets": 19,
+        "Total_Votes": 1026,
+        "Cities": 3,
+        "Rated_Outlets": 17,
+        "Avg_Rating": 2.62,
+        "Avg_Votes_per_Outlet": 54.0
+      }
+    ],
+    "n_min10": 36,
+    "chain_avg": 3.34,
+    "non_chain_avg": 3.49
+  }
+}
